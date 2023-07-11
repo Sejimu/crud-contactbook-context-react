@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Nursultan",
+      "surname": "Asan uulu",
+      "phone": "+996555333899"
+    },
+    {
+      "name": "baitik",
+      "surname": "shermaliev",
+      "phone": "123456123456543212",
+      "id": 2
+    }
+  ]
+}
